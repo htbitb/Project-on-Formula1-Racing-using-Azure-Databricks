@@ -58,3 +58,9 @@ df.show()
 
 ### Key Vault
 Using Azure Key Vault with Databricks enhances security, simplifies secret management, ensures compliance, and integrates seamlessly with other Azure services. It provides a robust mechanism for handling sensitive information and ensures best practices in secret management and application security.
+
+<div style="text-align: center;">
+  <img src="/source/key_vault.png" alt="Description" />
+</div>
+
+Step by step more details [here](Access_Directly/README.md)

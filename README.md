@@ -4,7 +4,7 @@
 
 This project is created to implement a data engineering solution using Azure Databricks and Spark core for a real world project of analysing and reporting on Formula1 motor racing data.
 
-![alt text](/source/databricks_overview.png)
+![Project Architecture](/source/databricks_overview.png)
 
 
 ### What will we learn about?
