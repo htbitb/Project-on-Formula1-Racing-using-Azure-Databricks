@@ -19,7 +19,7 @@ In DataBricks homepage, navigate into this web `https://<databricks-instance>#se
 ![alt text](/source/SecretsScope.png)
 
 To get data of `DNS Name` and `Resource ID`, navigate to key vault's properties page
-![alt text](image.png)
+![alt text](/source/keyvaultproperties.png)
 
 **4. Create connection**
 ```py
