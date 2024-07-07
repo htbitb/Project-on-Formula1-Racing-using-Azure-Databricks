@@ -1,4 +1,5 @@
 # Databricks notebook source
+# this copywrite from author: Ramesh Retnasamy
 # MAGIC %md
 # MAGIC ### Ingest pit_stops.json file
 

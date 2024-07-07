@@ -1,4 +1,5 @@
 # Databricks notebook source
+# this copywrite from author: Ramesh Retnasamy
 # MAGIC %md
 # MAGIC #### Access Azure Data Lake using cluster scoped credentials
 # MAGIC 1. Set the spark config fs.azure.account.key in the cluster

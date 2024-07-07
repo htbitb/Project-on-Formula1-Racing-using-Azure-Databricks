@@ -1,4 +1,5 @@
 # Databricks notebook source
+# this copywrite from author: Ramesh Retnasamy
 # MAGIC %md
 # MAGIC #### Access Azure Data Lake using access keys
 # MAGIC 1. Set the spark config fs.azure.account.key

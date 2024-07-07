@@ -1,4 +1,5 @@
 # Databricks notebook source
+# this copywrite from author: Ramesh Retnasamy
 # MAGIC %md
 # MAGIC ### Mount Azure Data Lake using Service Principal
 # MAGIC #### Steps to follow

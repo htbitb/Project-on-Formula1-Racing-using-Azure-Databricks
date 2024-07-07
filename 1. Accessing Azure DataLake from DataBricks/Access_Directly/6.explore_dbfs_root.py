@@ -1,4 +1,5 @@
 # Databricks notebook source
+# this copywrite from author: Ramesh Retnasamy
 # MAGIC %md
 # MAGIC #### Explore DBFS Root
 # MAGIC 1. List all the folders in DBFS root
