@@ -80,3 +80,5 @@ This project is created to implement a data engineering solution using Azure Dat
 * Scheduling the pipelines using data factory triggers to execute at regular intervals
 
 * Monitor the triggers/ pipelines to check for errors/ outputs
+
+Thank you for giving me a great guide to understand this cource [Real World Project on Formula1 Racing](https://samsungu.udemy.com/course/azure-databricks-spark-core-for-data-engineers/learn/lecture/36760280#overview) from  [Ramesh Retnasamy](https://www.linkedin.com/in/ramesh-retnasamy/)
